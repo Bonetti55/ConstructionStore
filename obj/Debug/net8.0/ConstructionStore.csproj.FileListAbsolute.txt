@@ -34,3 +34,4 @@
 /Users/semyoniuditskii/Desktop/My repository/ConstructionStore/ConstructionStore/obj/Debug/net8.0/ConstructionStore.pdb
 /Users/semyoniuditskii/Desktop/My repository/ConstructionStore/ConstructionStore/obj/Debug/net8.0/ConstructionStore.genruntimeconfig.cache
 /Users/semyoniuditskii/Desktop/My repository/ConstructionStore/ConstructionStore/obj/Debug/net8.0/ref/ConstructionStore.dll
+/Users/semyoniuditskii/Desktop/My repository/ConstructionStore/ConstructionStore/obj/Debug/net8.0/ConstructionStore.sourcelink.json
